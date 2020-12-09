@@ -1,2 +1,2 @@
 # testing
-testing for the link between github and rstudio
+A repository for testing the link between github and rstudio
